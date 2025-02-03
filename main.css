@@ -1,0 +1,15 @@
+body {
+    background-color: #ccc;
+}
+
+section {
+    height: 50vh;
+    padding-top: 70px;
+}
+header {
+    position: static;
+    top: 0;
+    left: 0;
+    background-color: #fff;
+    font-style: italic;
+}
